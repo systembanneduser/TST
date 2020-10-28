@@ -10,6 +10,8 @@ pkg upgrade
 
 pkg install toilet
 
+git clone https://github.com/isuruwa/TST
+
 cd TST
 
 pip install -r requirements.txt
