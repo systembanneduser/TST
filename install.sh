@@ -1,3 +1,3 @@
 pkg update
 pkg upgrade
-pkg install toilet -y
+pkg install toilet
