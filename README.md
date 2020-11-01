@@ -1,16 +1,18 @@
 # TST
-Telegram Spam Tool using python .
+***Telegram Spam Tool created using python .***
 
-Features
+**Features
 
 1.build with my own telegram api (no need telegram api id & hash) to use tool .
 
 2.support for editing to make the tool with your telegram api .
 
+3.Attack to a ant telegram username .
+
 
 Created By Isuruwa
 
-#Install in termux
+**#Install in termux **
 
 pkg update
 
