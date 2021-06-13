@@ -61,6 +61,7 @@ TST is a fully completed python based script which is made for spamming a telegr
 [+]-- Need internet connection to process
 [+]-- Only For Educational Purposes
 [+]-- Developer Is Not Responsible For any Misuse OF SMS Tool
+[+]-- To Get Your Telegram ID & HASH Go To https://my.telegram.org
 ```
    
  <br>
