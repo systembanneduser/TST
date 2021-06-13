@@ -52,7 +52,7 @@ TST is a fully completed python based script which is made for spamming a telegr
 * `apt install fortune`
 * `apt install cowsay`
 * `git clone https://github.com/isuruwa/TST`
-* `cd SMS`
+* `cd TST`
 * `pip install -r requirements.txt`
 * `python tst.py`
   
