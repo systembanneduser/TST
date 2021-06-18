@@ -42,11 +42,10 @@ TST is a fully completed python based script which is made for spamming a telegr
 * `apt install toilet`
 * `apt install fortune`
 * `apt install cowsay`
-* `apt install ffmpeg`
-* `git clone https://github.com/isuruwa/singme`
-* `cd singme`
-* `bash install.sh`
-* `bash singme.sh`
+* `git clone https://github.com/isuruwa/TST`
+* `cd TST`
+* `pip install -r requirements.txt`
+* `python tst.py`
   
   
 ```
