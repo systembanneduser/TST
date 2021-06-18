@@ -15,19 +15,11 @@ TST is a fully completed python based script which is made for spamming a telegr
 
 ## FEATURES : <img src="https://img.icons8.com/color/48/000000/sent--v2.png"/>
   
-1.Tiny But powerful enough to spam to  a telegram user  unlimitedly .
+1.Tiny But powerful enough to spam to  a any telegram user  unlimitedly .
   
-2.No any user banned Error . Script auto stoped After Flood Error .  
+2.No any user banned Error . Script auto stoped After Flood Errors .  
   
-  
-
-1.build with my own telegram api (no need telegram api id & hash) to use tool .
-
-2.support for editing to make the tool with your telegram api .
-
-3.Attack to a ant telegram username .
-  
-4.Fixed login & 2 factor login errors . 
+3.Fixed login & 2 factor login errors . 
 
 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
