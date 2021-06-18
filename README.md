@@ -7,7 +7,7 @@
 <a href="https://t.me/technolk"><img title="addon" src="https://img.shields.io/badge/isuruwa-TELEGRAM-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>
 
-## ABOUT TOOL :
+## ABOUT TOOL : 
   
 TST is a fully completed python based script which is made for spamming a telegram user .
 
@@ -36,17 +36,17 @@ TST is a fully completed python based script which is made for spamming a telegr
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `apt install python -y`
-* `apt install python2 -y`
 * `apt install git -y`
 * `apt install ruby -y`
 * `gem install lolcat`
 * `apt install toilet`
 * `apt install fortune`
 * `apt install cowsay`
-* `git clone https://github.com/isuruwa/TST`
-* `cd TST`
-* `pip install -r requirements.txt`
-* `python tst.py`
+* `apt install ffmpeg`
+* `git clone https://github.com/isuruwa/singme`
+* `cd singme`
+* `bash install.sh`
+* `bash singme.sh`
   
   
 ```
