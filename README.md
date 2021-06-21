@@ -13,11 +13,24 @@
 </p>
 <br>
 
-## ABOUT TOOL : 
+
+<p>
+  
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor"></a>
+  
+  
+## ABOUT TOOL : <img src="https://img.icons8.com/color/48/000000/sent--v2.png"/>
   
 TST is a fully completed python based script which is made for spamming a telegram user .
+  
+</p>
+
+<br>
+
 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
+  
+
 
 ## FEATURES : <img src="https://img.icons8.com/color/48/000000/sent--v2.png"/>
   
@@ -27,12 +40,23 @@ TST is a fully completed python based script which is made for spamming a telegr
   
 3.Fixed login & 2 factor login errors . 
 
+</p>
 
+<br>
+
+<p>
+  
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
 ## AVAILABLE ON : <img src="https://img.icons8.com/color/48/000000/sent--v2.png"/>
 
 * Termux
+  
+</p>
+
+<br>
+
+<p>
   
   
  <img src="https://img.icons8.com/bubbles/100/000000/man-window-paper-plane.png"/>
@@ -52,6 +76,9 @@ TST is a fully completed python based script which is made for spamming a telegr
 * `cd TST`
 * `pip install -r requirements.txt`
 * `python tst.py`
+  
+ <p align="center">
+<img src="https://img.icons8.com/cute-clipart/150/000000/anonymous-mask.png"/>
   
   
 ```
