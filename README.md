@@ -96,3 +96,8 @@ TST is a fully completed python based script which is made for spamming a telegr
 
 <img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
 
+   
+# SCREENSHOTS :
+   
+![Screenshot_20210621-231422_Termux](https://user-images.githubusercontent.com/72663288/122806593-23cfd200-d2e8-11eb-838e-5e940df248b1.jpg)
+
