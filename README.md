@@ -36,7 +36,7 @@ TST is a fully completed python based script which is made for spamming a telegr
   
 1.Tiny But powerful enough to spam to  a any telegram user  unlimitedly .
   
-2.No any user banned Error . Script auto stoped After Flood Errors .  
+2.No any user banned Error .Auto scripts Added . 
   
 3.Fixed login & 2 factor login errors . 
 
