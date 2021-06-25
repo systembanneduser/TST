@@ -10,6 +10,6 @@
     apt install fortune
     apt install cowsay
     git clone https://github.com/isuruwa/TST
-    cd SMS
+    cd TST
     pip install -r requirements.txt
     python tst.py
