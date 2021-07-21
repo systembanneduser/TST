@@ -1,5 +1,4 @@
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-TST-brightgreen?style=for-the-badge&logo=appveyor"></a>
-<img src="https://img.icons8.com/clouds/100/000000/sent.png"/>
 <br>
 <p align="center">
 <img src="https://www.howtogeek.com/wp-content/uploads/2021/04/telegram-hacker.jpg?height=200p&trim=2,2,2,2"/>
