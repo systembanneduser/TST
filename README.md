@@ -69,6 +69,7 @@ TST is a fully completed python based script which is made for spamming a telegr
 * `apt install ruby -y`
 * `gem install lolcat`
 * `apt install toilet`
+* `apt install figlet`
 * `apt install fortune`
 * `apt install cowsay`
 * `git clone https://github.com/isuruwa/TST`
